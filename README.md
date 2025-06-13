@@ -4,8 +4,7 @@
 <h3></h3>
 <h2 align="center"><i> Mikael Diogo, Raimundo Avelino, Heitor, João Pedro, João Victor, Pedro Ítalo <br> 2º SEMESTRE DE ADS </h2>
 
+<h3>Feito em React Native</h3>
 
-<h3>Conversor de Moedas</h3>
-<h4>Feito em React Native Js</h4>
 
 
