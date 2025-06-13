@@ -1,7 +1,7 @@
-# Currency-Converter
-Converter valor em Dólar para Real.
-### <b><h1 align="center">Trabalho de Programação Web</h1></b>
-<h4>PROFESSOR: Adeilson Sales Aragão </h4>
+
+### <b><h1 align="center">Projeto - AP III | Currency Converter</h1></b>
+<p>Converter valor em Dólar para Real</p>
+<h4>PROFESSOR: WELLINGTON RIBEIRO MENEZES </h4>
 <h2 align="center"><i> Mikael Diogo Ferreira, Raimundo Avelino Gomes Lima, Paulo Henrique Aurélio Fernandes, Darian Vazquez Borrego  | Nº28 | Nº35 | Nº29 | Nº03 | 2º Infórmática </h2>
 
 
