@@ -7,5 +7,5 @@
 
 <h3>Conversor de Moedas</h3>
 <h4>Feito em React Native Js</h4>
-<img src=>
+
 
