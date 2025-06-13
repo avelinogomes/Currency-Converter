@@ -5,7 +5,7 @@
 
 
 <h3>Conversor de Moedas</h3>
-<h4>Feito em React Js</h4>
-<img src="Captura de tela_2022-12-14_23-45-28.png">
+<h4>Feito em React Native Js</h4>
+<img src="blob:https://web.whatsapp.com/98c87f93-bd45-44f1-8c56-9be19fd88474">
 
-<p>Obs:O conversor está em inglês e português por esquecimento na hora de trocar</p>
+<p>TEXTO</p>
